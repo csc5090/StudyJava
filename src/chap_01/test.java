@@ -39,9 +39,14 @@ public class test {
         // 그래서 맞으면 100 틀리면 0을 알려주고싶어
         // 변수 = (조건) ? (t) : (f)
 
-        System.out.println((false||false) ? (100) : (0));
+        //
+        // System.out.println((false||false) ? (100) : (0));
 
         //System.out.println(c = (a||b) ? (100) : (0));
+
+        //System.out.println((5>3) || (2 < 0));
+
+
 
 
 
